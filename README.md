@@ -19,6 +19,6 @@ Définition des champs du jeu de données :
   
 - DiabetesPedigreeFunction : fonction généalogique du diabète
   
-- Age : Age 
+- Age : age 
   
 - Outcome : 0 pas diabétique 1 diabétique
